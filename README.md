@@ -256,3 +256,94 @@ Qianwen WANG (Hong Kong University of Science and Technology): Visualization
 ## Acknowledgements
 
 Thanks to [Saumitro Dasgupta](https://github.com/ethereon), the initial code of *caffe -> IR converting* is references to his project [caffe-tensorflow](https://github.com/ethereon/caffe-tensorflow).
+
+## Useful Papers and Blog Posts
+This notebook is created to keep and share potentially useful research papers and blog posts.
+
+#### Data Augmentation Related
+##### Interesting
+[Benchmarking Robustness in Object Detection: Autonomous Driving when Winter is Coming](https://arxiv.org/abs/1907.07484)
+
+[Benchmarking Neural Network Robustness to Common Corruptions and Surface Variations](https://arxiv.org/abs/1807.01697)
+
+[AutoAugment: Learning Augmentation Policies from Data](https://arxiv.org/pdf/1805.09501v3.pdf)
+
+[Advanced Data Augmentation Strategies](https://towardsdatascience.com/advanced-data-augmentation-strategies-383226cd11ba)
+
+[Neural Style Transfer: Applications in Data Augmentation](https://towardsdatascience.com/neural-style-transfer-applications-data-augmentation-43d1dc1aeecc)
+
+[AutoML for Data Augmentation](https://blog.insightdatascience.com/automl-for-data-augmentation-e87cf692c366)
+
+[How to improve your image classifier with Google’s AutoAugment](https://towardsdatascience.com/how-to-improve-your-image-classifier-with-googles-autoaugment-77643f0be0c9)
+
+[Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://arxiv.org/pdf/1703.06868.pdf)
+
+[Generalisation in humans and deep neural networks](https://arxiv.org/pdf/1808.08750.pdf)
+
+##### Useful
+[Robust Detection Benchmark Github link](https://github.com/bethgelab/robust-detection-benchmark)
+
+[Revisiting Data Augmentation for Self-Driving Cars](https://towardsdatascience.com/when-conventional-wisdom-fails-revisiting-data-augmentation-for-self-driving-cars-4831998c5509)
+
+[Neural Style Transfer](https://towardsdatascience.com/neural-style-transfer-and-visualization-of-convolutional-networks-7362f6cf4b9b)
+
+
+#### Object Detection Related
+##### Interesting
+
+##### Useful
+[Libtorch Yolov3](https://github.com/turgunyusuf/libtorch-yolov3)
+
+[How to train YoloV3](https://github.com/AlexeyAB/darknet/blob/master/README.md)
+
+[How to train YoloV2](https://github.com/AlexeyAB/darknet/tree/47c7af1cea5bbdedf1184963355e6418cb8b1b4f#how-to-train-pascal-voc-data)
+
+[Yolov3 deployment with TensorRT](https://towardsdatascience.com/have-you-optimized-your-deep-learning-model-before-deployment-cdc3aa7f413d)
+
+[Yolov3 weights to Caffemodel](https://blog.csdn.net/cgt19910923/article/details/83242079)
+
+[Custum Yolov3 on Nvidia Deepstream](https://docs.nvidia.com/metropolis/deepstream/4.0/Custom_YOLO_Model_in_the_DeepStream_YOLO_App.pdf)
+
+[Complete Yolov3 to Caffe](https://github.com/eric612/MobileNet-YOLO)
+
+#### Object Tracking Related
+[Computer Vision for Tracking](https://towardsdatascience.com/computer-vision-for-tracking-8220759eee85)
+
+[tracking](https://handong1587.github.io/deep_learning/2015/10/09/tracking.html)
+
+[DeepSort Tutorial](https://nanonets.com/blog/object-tracking-deepsort/)
+
+[Deepstream Reference](https://docs.nvidia.com/metropolis/deepstream/4.0/dev-guide/index.html#page/DeepStream_Development_Guide%2Fdeepstream_quick_start.html%23wwpID0E05E0HA)
+
+[Deepstream Blog](https://www.space-i.com/post-blog/jetson-nano%E3%81%A7deepstream-sdk%E3%80%80usb%E3%82%AB%E3%83%A1%E3%83%A9%E6%98%A0%E5%83%8F%E3%81%8B%E3%82%89%E6%A4%9C%E7%9F%A5%EF%BC%86iphone%E3%81%A7%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%A0/)
+
+[Visual tracking library based on PyTorch](https://github.com/turgunyusuf/pytracking)
+
+[SenseTime Research platform for single object tracking](https://github.com/STVIR/pysot)
+
+[SiamRPN](https://github.com/turgunyusuf/Siamese-RPN-pytorch)
+
+[SiamDW](https://github.com/turgunyusuf/SiamDW)
+
+[Real-time Multi-person tracker using YOLO v3 and deep_sort with tensorflow ](https://github.com/turgunyusuf/deep_sort_yolov3)
+
+[A simplified PyTorch implementation of Siamese networks](https://github.com/turgunyusuf/SiameseX.PyTorch)
+
+[Target-Aware Deep Tracking (TADT)](https://github.com/turgunyusuf/TADT-python)
+
+[TorchScript](http://blog.christianperone.com/page/3/)
+
+##### Useful
+[Real-time C++ ECO tracker etc](https://github.com/turgunyusuf/OpenTracker)
+
+#### Classification and TensorRT Related
+##### Interesting
+[Yolo TRT](https://blog.csdn.net/cgt19910923/article/details/88847228)
+
+[TensorRT int8 inference](https://github.com/NVIDIA/TensorRT/tree/master/samples/opensource/sampleINT8)
+
+[Fast INT8 Inference for TRT3](https://devblogs.nvidia.com/int8-inference-autonomous-vehicles-tensorrt/)
+
+[INT8 on TRT Doc](https://docs.nvidia.com/deeplearning/sdk/tensorrt-developer-guide/index.html#optimizing_int8_python)
+
+[SampleINT8](https://github.com/NVIDIA/TensorRT/tree/release/7.0/samples/opensource/sampleINT8API)
